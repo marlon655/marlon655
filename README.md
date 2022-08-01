@@ -1,0 +1,7 @@
+- 👋 Hi, I’m  Marlon 28 years old.
+- 👀 I’m interested in web development
+- 🌱 solid knowledge: HTML | CSS | PHP and JS For Front-End.
+- 🌱 I’m currently learning web development Node | Express | Vue | Sql | MongoDb.
+- 🌱 I’m currently learning JAVA | Spring Boot.
+- 📫 How to reach me? https://www.linkedin.com/in/marlon-martinez-dev/
+
